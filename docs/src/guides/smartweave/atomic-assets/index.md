@@ -1,3 +1,5 @@
+<!-- @format -->
+
 # Atomic Assets
 
 An atomic asset is a unique package that includes data, labels (also known as tags), and a specific agreement, all under a single, unchangeable identifier. This allows applications and users to access the data, labels, and agreement by using just this one identifier.
@@ -8,5 +10,4 @@ The SmartWeave Token has a special feature called a balances object that keeps t
 
 ## Deploying Atomic Assets
 
-
-* [using ArDrive CLI](ardrive-cli)
+- [using ArDrive CLI](ardrive-cli.html)
